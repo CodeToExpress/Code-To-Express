@@ -6,11 +6,13 @@
 
 ## About CodeToExpress
 
-To Be Added...
+We intend to change the generic definition of teaching, a teacher must become the best friend of student, to make learning much more interesting. Let’s come together, discuss ideas, teach each other and help each other grow. Learning together makes growth faster and enjoyable.
 
-## Out Aim
+Next time someone asks you why you code? Tell him/her, "I CODE TO EXPRESS"
 
-To Be Added...
+## Our Aim
+
+Aim of the community is to connect experts from all domains to medium and beginner developers so that when choosing the domain, they don’t follow the herd, but they get to know about the domains of their choice and choose what they love.
 
 ## C2E | Code Of Conduct
 
