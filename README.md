@@ -1,6 +1,6 @@
 # Code To Express
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](#)
+![Open Source on GitHub](https://img.shields.io/badge/-Open%20Source-green.svg?style=popout-square&logo=github&logoColor=black)
 
 > Express yourself through your code | Teaching Tech, Seamlessly! 🌟
 
